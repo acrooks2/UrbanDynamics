@@ -14,8 +14,16 @@ Cities are complex systems which are constantly changing because of the interact
 **Keywords**: Urban Dynamics, Land Markets, Gentrification, Urban Growth, Urban Shrinkage, Urban Sprawl.
 
 
-## Full Reference 
+## Full Reference & Access to the Paper
 
 **Bagheri-Jebelli, N., Crooks, A.T. and Kennedy, W.G.** (2019), Capturing the Effects of Gentrification on Property Values: An Agent-Based Modeling Approach, The Computational Social Science Society of Americas Conference, Santa Fe, NM ([PDF of Paper](./paper.pdf)).
+
+
+## Movie of a Simulation Run
+
+If you click on the image below, you will be taken to YouTube where you can see a run of the model. Alternatively see: [https://youtu.be/OSnqDMpQsds](https://youtu.be/OSnqDMpQsds).
+
+
+[![GUI of the Model and 1 simulation run ](http://img.youtube.com/vi/OSnqDMpQsds/0.jpg)](http://www.youtube.com/watch?v=OSnqDMpQsds "GUI of the Model and 1 simulation run ")
 
 
