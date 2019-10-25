@@ -18,6 +18,8 @@ Cities are complex systems which are constantly changing because of the interact
 
 **Bagheri-Jebelli, N., Crooks, A.T. and Kennedy, W.G.** (2019), Capturing the Effects of Gentrification on Property Values: An Agent-Based Modeling Approach, The Computational Social Science Society of Americas Conference, Santa Fe, NM ([PDF of Paper](./paper.pdf)).
 
+## Presentation
+Along with the paper, the presenatiaon can be downlaed from here: [CSSSA2019_Gentrification_Presentation.pptx](CSSSA2019_Gentrification_Presentation.pptx).
 
 ## Movie of a Simulation Run
 
